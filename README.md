@@ -1,1 +1,3 @@
-# ece461-hw1
+# ECE 461 HW 1
+
+Paing Khant
